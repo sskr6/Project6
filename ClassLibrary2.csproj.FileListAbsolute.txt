@@ -1,0 +1,4 @@
+E:\dot net\Dot net latest\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+E:\dot net\Dot net latest\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+E:\dot net\Dot net latest\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+E:\dot net\Dot net latest\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
